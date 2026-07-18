@@ -23,11 +23,11 @@ assets:
   - {seq: 3, filename: KR3er098_003-jc.yaml, hash: 'sha256:daa620f9a6b70981c1ed5b7914a8fbc3c59f7f077c8b6b516e4988f1865e6885'}
   - {seq: 4, filename: KR3er098_004-jc.yaml, hash: 'sha256:70f445b43244a5cf6f38507eb0e8566699a50f71625bc0eee9d6b57ae7f827af'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er098_000-jc.markers.yaml, hash: 'sha256:f013ef189456a5cfe13eefba3f9a7b83689700210cb02146d6b64c30c4b59d18'}
-  - {seq: 1, role: markers, filename: assets/KR3er098_001-jc.markers.yaml, hash: 'sha256:dca31558a9e6683497238afc33ff78a644f4d98ed107f9ff455e2396aadba09e'}
-  - {seq: 2, role: markers, filename: assets/KR3er098_002-jc.markers.yaml, hash: 'sha256:e46e4612d47e05498c210b8b579ecaeba53ec88bf93756e867404f9ffc3e1cc4'}
-  - {seq: 3, role: markers, filename: assets/KR3er098_003-jc.markers.yaml, hash: 'sha256:7ca2f9f017ae738b5327f22c8c1e5d35c3d0c3daf06ca0f2499dd7b994987bd0'}
-  - {seq: 4, role: markers, filename: assets/KR3er098_004-jc.markers.yaml, hash: 'sha256:4a83ff3a69862bd5ce1d475bc0d55c6ea070165573e84f6e0066882049fd3ae3'}
+  - {seq: 0, role: markers, filename: assets/KR3er098_000-jc.markers.yaml, hash: 'sha256:ca40206b16d8a9be6b70fb4b71d0d52658b355a6923b42ec1663316833bb0429'}
+  - {seq: 1, role: markers, filename: assets/KR3er098_001-jc.markers.yaml, hash: 'sha256:be99f7aa3df004e172a71e836e8337709a5c0b74b1e3279bf99921ae7a4f927b'}
+  - {seq: 2, role: markers, filename: assets/KR3er098_002-jc.markers.yaml, hash: 'sha256:f290615fd343b37509b88b7d1e37acf010a14b1862b112f24d5e31cba0b70d59'}
+  - {seq: 3, role: markers, filename: assets/KR3er098_003-jc.markers.yaml, hash: 'sha256:982712628ef3b9cce72c9103500ecf8bcdf5ed870907c3b750122af3c2341184'}
+  - {seq: 4, role: markers, filename: assets/KR3er098_004-jc.markers.yaml, hash: 'sha256:459934fd792f6d1cee62583af17eeba7d736d0aadd3337406172693a9d023dd2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -3139,4 +3139,4 @@ table_of_contents:
   label: 論補法
   type: section
   level: 3
-hash: sha256:4075a1cb99b8138f7bfb4f23b2c6763e5d05f3b3cb9183d3ae27a5487792f582
+hash: sha256:4487ad9cc65a89ba45617c959ed209a2e180180f9537be46ba8fc1fe9e7c31c4
